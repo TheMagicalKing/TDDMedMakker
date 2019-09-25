@@ -1,5 +1,7 @@
 import junit.framework.TestCase;
 
+//test lavet af Nicki Hvolgaard - Studerende på Zealand Næstved
+
 public class FibonacciMainTest extends TestCase {
 
     public void testFibUdregner(){
